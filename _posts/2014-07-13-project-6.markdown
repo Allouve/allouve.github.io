@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2021-01-15
-img: submarine.png
+img: california.png
 alt: image-alt
 project-date: January 2021
 client: State of California
