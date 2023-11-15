@@ -257,8 +257,8 @@ section.success {
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
-      align-items: stretch;
-      justify-content: space-between;
+      align-items: center;
+      justify-content: center;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
@@ -487,18 +487,6 @@ footer .footer-below {
     max-width: 100%;
     width: 100%;
     height: auto; 
-}
-
-.portfolio-flex-item {
-    display: flex;
-    align-items: center; /* This vertically centers the content */
-    justify-content: center; /* This horizontally centers the content */
-    height: 100%; /* Adjust as needed */
-}
-
-.portfolio-flex-item img {
-    max-height: 200px; /* Optional: Ensures the image doesn't exceed the container's height */
-    width: auto; /* Maintains the aspect ratio */
 }
 
 
