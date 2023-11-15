@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2023-06-01
-img: gagezero.png
+img: gagezero.jpg
 alt: image-alt
 project-date: June 2023
 client: Gage Zero
