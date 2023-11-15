@@ -253,6 +253,8 @@ section.success {
       flex: 1 0 49%;
       max-width: 49%;
       margin: auto;
+      align-items: center;
+      justify-content: center;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item img {
       display: block;
