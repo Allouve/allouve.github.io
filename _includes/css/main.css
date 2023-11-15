@@ -252,8 +252,10 @@ section.success {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
       max-width: 49%;
+      margin: auto;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item img {
+      display: block;
       width: 100%;
       max-width: 200px; 
       height: auto; 
